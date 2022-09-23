@@ -1,0 +1,1 @@
+Put Domain names in the Domains.txt And run the script to get The ip and the country of the domain in a new txt file 
